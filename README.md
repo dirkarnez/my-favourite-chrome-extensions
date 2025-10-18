@@ -1,3 +1,5 @@
 my-favourite-chrome-extensions
 ==============================
-- https://chromewebstore.google.com/detail/tab-limiter/pbpfchnddjilendkobiabenojlniemoh
+- [Tab Limiter - Chrome Web Store](https://chromewebstore.google.com/detail/tab-limiter/pbpfchnddjilendkobiabenojlniemoh)
+- [Sample - Chrome Web Store](https://chromewebstore.google.com/detail/sample/kpkcennohgffjdgaelocingbmkjnpjgc)
+- [Chrome Audio Capture - Chrome Web Store](https://chromewebstore.google.com/detail/chrome-audio-capture/kfokdmfpdnokpmpbjhjbcabgligoelgp?pli=1)
